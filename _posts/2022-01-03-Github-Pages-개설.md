@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - Aside
+title: Github Pages 개설
 aside:
   toc: true
 ---
